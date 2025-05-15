@@ -9,7 +9,7 @@
 - Python 3.x
 - Установленные библиотеки из файла requirements:
   ```sh
-  pip install -r requirements
+  pip install -r requirements.txt
   ```
 
 ### Запуск проекта
